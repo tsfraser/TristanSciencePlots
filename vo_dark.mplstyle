@@ -1,0 +1,48 @@
+
+font.style: normal
+font.weight: bold
+font.size: 30 
+
+lines.color: FFFDD0
+patch.edgecolor: FFFDD0
+text.color: FFFDD0
+text.usetex: True
+axes.facecolor: 260607
+axes.edgecolor: FFFDD0
+axes.labelcolor: FFFDD0
+
+xtick.color: FFFDD0
+ytick.color: FFFDD0
+
+grid.color: FFFDD0
+
+figure.facecolor: 260607
+figure.edgecolor: white
+
+savefig.facecolor: 260607
+savefig.edgecolor: 260607
+axes.grid: True
+axes.titlesize: x-large
+axes.labelsize: large
+
+
+
+
+
+
+#D92949
+#2F94DB
+#2C5E30
+#260607
+#E85C37
+
+
+#FA2F55
+#3299D9
+#80A13F
+#F2B279
+#F07A30
+##FFFDD0
+axes.prop_cycle: cycler('color', ['fa2f55','3299d9','80a13f','f2b279','f07a30'])
+                      # color cycle for plot lines  as list of string
+                      # colorspecs: single letter, long name, or web-style hex

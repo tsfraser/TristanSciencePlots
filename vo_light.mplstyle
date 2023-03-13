@@ -1,0 +1,47 @@
+patch.linewidth: 0.5
+patch.facecolor: ffffff
+patch.antialiased: True
+
+#de2330
+#091222
+#d8deff
+#76da7e
+#683094
+#c323ad
+#006d83
+#d8deff
+
+font.size: 24.0
+text.usetex: True
+figure.facecolor: white
+figure.edgecolor: white
+
+savefig.facecolor: white
+savefig.edgecolor: white
+axes.edgecolor: 000000
+axes.linewidth: 1
+axes.grid: True
+axes.titlesize : 24
+axes.labelsize : 20
+legend.labelcolor: 000000
+lines.color: 000000
+#patch.edgecolor: 000000
+
+ytick.labelsize: large
+xtick.labelsize: large
+xtick.major.size: large
+xtick.minor.size: large
+ytick.major.size:large
+ytick.minor.size: large
+legend.fontsize: 16
+text.color: 000000 
+
+
+#D92949
+#2F94DB
+#45bf55
+#260607
+#E85C37
+axes.prop_cycle: cycler('color', ['d92949','2f94db','260607','45bf55','E85C37'])
+                      # color cycle for plot lines  as list of string
+                      # colorspecs: single letter, long name, or web-style hex
